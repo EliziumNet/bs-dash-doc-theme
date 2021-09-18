@@ -1,4 +1,4 @@
-# Bootstrap Dash UI Github Pages Documentation Template
+# Bootstrap Dash UI Github Pages Documentation Theme
 
 This is a designed to become a Gh Pages theme used for documenting Elizium projects. The idea behind this is to be able to create a visually appealling documentaion theme. The alternatives to this approach are to use other platforms such as [docusaurus](https://docusaurus.io/) or [gitbook](https://www.gitbook.com/). Whilst these are both great platforms, gitbook, has its own rather severe limitations and docusaurus has its own fixed appearance which although perfectly fine, is not as visually appealling as other Bootstrap themes.
 
